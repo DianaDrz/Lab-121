@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\SharpDevelop Projects\Prepasoejercio2\Prepasoejercio2\bin\Debug\Prepasoejercio2.exe
+C:\Users\pc\Documents\SharpDevelop Projects\Prepasoejercio2\Prepasoejercio2\bin\Debug\Prepasoejercio2.pdb
+C:\Users\pc\Documents\SharpDevelop Projects\Prepasoejercio2\Prepasoejercio2\obj\x86\Debug\Prepasoejercio2.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\SharpDevelop Projects\Prepasoejercio2\Prepasoejercio2\obj\x86\Debug\Prepasoejercio2.exe
+C:\Users\pc\Documents\SharpDevelop Projects\Prepasoejercio2\Prepasoejercio2\obj\x86\Debug\Prepasoejercio2.pdb
