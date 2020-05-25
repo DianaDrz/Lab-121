@@ -1,0 +1,5 @@
+C:\Users\pc\Documents\SharpDevelop Projects\Repaso\Repaso\bin\Debug\Repaso.exe
+C:\Users\pc\Documents\SharpDevelop Projects\Repaso\Repaso\bin\Debug\Repaso.pdb
+C:\Users\pc\Documents\SharpDevelop Projects\Repaso\Repaso\obj\x86\Debug\Repaso.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\SharpDevelop Projects\Repaso\Repaso\obj\x86\Debug\Repaso.exe
+C:\Users\pc\Documents\SharpDevelop Projects\Repaso\Repaso\obj\x86\Debug\Repaso.pdb
