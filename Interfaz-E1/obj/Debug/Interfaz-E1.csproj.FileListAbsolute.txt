@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\bin\Debug\Interfaz-E1.exe.config
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\bin\Debug\Interfaz-E1.exe
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\bin\Debug\Interfaz-E1.pdb
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz-E1.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz_E1.Form1.resources
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz_E1.Properties.Resources.resources
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz-E1.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz-E1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz-E1.exe
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz-E1.pdb
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz_E1.Form2.resources
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz_E1.Form3.resources
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz_E1.Form4.resources
+C:\Users\pc\source\repos\Interfaz-E1\Interfaz-E1\obj\Debug\Interfaz_E1.Form5.resources
